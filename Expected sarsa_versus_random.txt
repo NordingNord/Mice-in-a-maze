@@ -1,0 +1,8 @@
+winners:expected sarsa,expected sarsa,expected sarsa,expected sarsa,expected sarsa,expected sarsa,expected sarsa,expected sarsa,expected sarsa,expected sarsa,
+random score:6,6,6,8,0,10,4.0,18,8,8,
+expected sarsa score:34,34,34,32,40,30,36.0,22,32,32,
+expected sarsa total wins: 10
+expected sarsa total score: 326
+random total wins: 0
+random total score: 74
+total ties: 0
